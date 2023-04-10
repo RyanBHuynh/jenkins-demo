@@ -1,3 +1,3 @@
 # This is a sample project for Maven based Jenkins demo
 
-update readme.md
+update part 2 readme.md
